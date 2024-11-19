@@ -1,0 +1,5 @@
+icmp-find the comminication issues from network devices
+connect to the instance of windows-RDP
+ssl-provides security or protection for your data
+api-transfer the data b/w two computer.its act like an interface
+load hello
